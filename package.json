@@ -1,0 +1,14 @@
+{
+  "name": "@nicsachin/requestpromise",
+  "version": "1.0.1",
+  "description": "a wrapper for request module which you can run asynchronously",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node index"
+  },
+  "author": "sachin",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
